@@ -4,7 +4,7 @@
 📐 B.S. in Mathematics (Theory & Computation) & B.A. in Economics | UC Santa Cruz ('25)  
 ---
 ### 🔬 About Me
-- 📊 Passionate about **Biostatistics**, **Causal Inference**, **Survey-Weighted Analysis**, and **Data Science**.
+- 📊 Passionate about **Biostatistics**, **Causal Inference**, and **Data Science**.
 - 🛠️ Proficient in **R (Shiny, ggplot2)**, **SAS (ODS, PROC REPORT)**, **Python**, and **SQL**.
 - 📍 Based in **Raleigh, NC**.
 - 📫 Reach me at: **stephanieshuai384@gmail.com** | [LinkedIn](http://www.linkedin.com/in/lingyu-shuai-0419a2380)
