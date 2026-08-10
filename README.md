@@ -9,6 +9,14 @@
 - 📍 Based in **Raleigh, NC**.
 - 📫 Reach me at: **stephanieshuai384@gmail.com** | [LinkedIn](http://www.linkedin.com/in/lingyu-shuai-0419a2380)
 
+---
+### 💻 Tech Stack
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-003366?style=for-the-badge&logo=sas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R_Shiny-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 ### 🚀 Featured Projects
