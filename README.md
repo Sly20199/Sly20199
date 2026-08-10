@@ -29,7 +29,4 @@
 
 ---
 ### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sly20199&show_icons=true&theme=nord" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sly20199&layout=compact&theme=nord" width="48%" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sly20199&theme=nord)
